@@ -1,0 +1,38 @@
+*,
+*::before,
+*::after{
+    font-family: 'Gilroy';
+}
+
+.link{
+    text-decoration: none;
+}
+
+.list{
+    list-style: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.nav{
+    display: flex;
+
+}
+
+.nav-list{
+    display: flex;
+    gap: 31px;
+}
+
+.button-nav{
+
+}
+
+.nav-item{
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
